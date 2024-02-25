@@ -56,7 +56,6 @@ function MainContent() {
     </main>
   );
 }
-
 function ProductSection() {
   return (
     <section className="product-section">
@@ -103,7 +102,6 @@ function Footer() {
     </footer>
   );
 }
-
 function Button(props) {
   return (
     <button className={props.buttonStyle}>
